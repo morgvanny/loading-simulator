@@ -7,6 +7,7 @@ export default function () {
       <p>Name: Morgan</p>
       <p>Occupation: Software Engineering Instructor</p>
       <Loading />
+      <p>Hi</p>
     </div>
   );
 }
